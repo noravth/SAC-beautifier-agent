@@ -1,0 +1,19 @@
+.aicore-config.json
+agent/variables.py
+
+# Environments
+.venv
+/.venv/
+
+# macOS-specific files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# data
+data/
+other/
+tutorial_tester_agent.log
